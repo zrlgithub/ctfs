@@ -1,0 +1,19 @@
+GET / HTTP/1.1
+Host: localhost:8443
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:78.0) Gecko/20100101 Firefox/78.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate, br
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+
+ATM{d9c4d01f04360dca683b66ba1c9293f00b69254f1eb4c9d5062192c989d7d118}GET / HTTP/1.1
+Host: localhost:8443
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:78.0) Gecko/20100101 Firefox/78.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate, br
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+
+ATM{d9c4d01f04360dca683b66ba1c9293f00b69254f1eb4c9d5062192c989d7d118}
